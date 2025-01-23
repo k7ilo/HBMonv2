@@ -1,6 +1,6 @@
-#Twisted
-dmr_utils3
-#bitstring
+#Twisted (Installed with hblink3)
+#dmr_utils3 (Installed with hblink3)
+#bitstring (Installed with hblink3)
 autobahn
 jinja2==2.11.3
 markupsafe==2.0.1
